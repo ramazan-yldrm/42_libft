@@ -1,0 +1,33 @@
+# Object files
+*.o
+*.obj
+
+# Static library
+*.a
+
+# Executables
+a.out
+
+# Temporary files
+*~
+*.swp
+*.swo
+*.tmp
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# CLion / JetBrains
+.idea/
+cmake-build-*/
+
+# Debug files
+*.dSYM/
+
+# Coverage / profiling
+*.gcda
+*.gcno
+*.gcov
